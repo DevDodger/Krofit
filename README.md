@@ -1,1 +1,1 @@
-<img src="waves.gif">
+<img src="waves.svg">
