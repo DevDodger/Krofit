@@ -1,2 +1,1 @@
-# Krofit
-Krofit Profit System
+<img src="waves.gif">
