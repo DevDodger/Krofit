@@ -1,6 +1,7 @@
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 local iskey = isfile("AzulHubKey.txt")
 if iskey == false then
+    print("False")
 local ScreenGui = Instance.new("ScreenGui")
 local TextBox = Instance.new("TextBox")
 local TextButton = Instance.new("TextButton")
